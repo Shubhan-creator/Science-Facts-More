@@ -1,5 +1,4 @@
 <html>
-<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Science Amazing Facts</title>
@@ -66,13 +65,18 @@
 
     footer {
       background: #4527a0;
-      colour: white;
+      color: white;
       text-align: center;
       padding: 15px;
       font-size: 16px;
       margin-top: 40px;
-      image-size: 30px;
     }
+
+    footer img {
+  width: 30px;
+  height: auto;
+}
+
   </style>
 </head>
 <body>
@@ -101,8 +105,9 @@
     </div>
 
     <div class="fact">
-      <p> <strong>Your brain uses as much electricity as a 10-watt bulb!</strong> That’s enough to light a small lamp!</p>
-      <img src="https://static.turbosquid.com/Preview/2017/08/23__12_06_53/1.jpgE1EB8D71-4472-4AE4-8D8C-BC1938C3FDA0DefaultHQ.jpg">
+      <p> <strong>Your brain uses as much electricity as a 10-watt bulb!</strong> That’s enough to light a small lamp!
+   <a href="https://thefactbase.com/the-brain-needs-as-much-energy-as-a-10-watt-light-bulb-and-it-doesn-t-matter-if-you-are-asleep-or-awake/target="_blank">Get more information </a>.</p>
+   <img src="https://static.turbosquid.com/Preview/2017/08/23__12_06_53/1.jpgE1EB8D71-4472-4AE4-8D8C-BC1938C3FDA0DefaultHQ.jpg">
     </div>
 
     <div class="fact">
