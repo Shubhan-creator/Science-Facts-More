@@ -66,8 +66,8 @@
 
     footer {
       background: #4527a0;
-      color: white;
-      text-align: center;
+      colour: white;
+      text-align: centre;
       padding: 15px;
       font-size: 16px;
       margin-top: 40px;
