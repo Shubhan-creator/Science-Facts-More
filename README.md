@@ -73,7 +73,7 @@
     }
 
     footer img {
-  width: 30px;
+  width: 90px;
   height: auto;
 }
 
@@ -106,7 +106,7 @@
 
     <div class="fact">
       <p> <strong>Your brain uses as much electricity as a 10-watt bulb!</strong> That’s enough to light a small lamp!
-   <a href="https://thefactbase.com/the-brain-needs-as-much-energy-as-a-10-watt-light-bulb-and-it-doesn-t-matter-if-you-are-asleep-or-awake/target="_blank">Get more information </a>.</p>
+   <a href="https://thefactbase.com/the-brain-needs-as-much-energy-as-a-10-watt-light-bulb-and-it-doesn-t-matter-if-you-are-asleep-or-awake/" target="_blank">Get more information</a>.</p>
    <img src="https://static.turbosquid.com/Preview/2017/08/23__12_06_53/1.jpgE1EB8D71-4472-4AE4-8D8C-BC1938C3FDA0DefaultHQ.jpg">
     </div>
 
