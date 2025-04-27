@@ -138,6 +138,7 @@
 
   <footer>
     Created by Shubhan | Class 8 | Glendale International Cambridge School 
+   (Only a school project)
 <img src="https://th.bing.com/th/id/OIP.VsIrZ6YbKZnn1nWHZ23p2wHaE4?rs=1&pid=ImgDetMain"> 
   </footer>
 
